@@ -4,7 +4,7 @@
 #pip install python-multipart
 
 from fastapi import FastAPI
-import nest_asyncio
+#import nest_asyncio
 from pyngrok import ngrok
 import uvicorn
 from fastapi import FastAPI, Form
