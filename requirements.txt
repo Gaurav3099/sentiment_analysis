@@ -1,8 +1,6 @@
-sklearn
 fastapi
 pandas
 pydantic
 textblob
 uvicorn
-h5py==2.10.0
 python-multipart
